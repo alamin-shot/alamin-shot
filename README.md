@@ -53,15 +53,6 @@
 
 <br>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alamin-shot&show_icons=true&count_private=true&hide_border=true&title_color=7000FF&icon_color=00F2FE&text_color=FFFFFF&bg_color=0D0E15" alt="GitHub Stats" />
-  
-  <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alamin-shot&layout=compact&hide_border=true&title_color=7000FF&text_color=FFFFFF&bg_color=0D0E15" alt="Top Languages" />
-</div>
-
-<br>
 
 <div align="center">
   <!-- Profile Summary Cards -->
