@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Building+the+future+of+the+decentralized+web;🚀+Architecting+clean+code+%26+scalable+systems;🔥+MERN+Stack+•+TypeScript+•+Next.js+•+Architect" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Building+the+future+of+the+decentralized+web;%F0%9F%9A%80+Architecting+clean+code+%26+scalable+systems;%F0%9F%94%A5+MERN+Stack+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Architect" alt="Typing SVG" />
+  </a>
 </h1>
 
 <div align="center">
@@ -52,9 +54,11 @@
 <br>
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alamin-shot&show_icons=true&theme=radical&bg_color=0D0E15&title_color=7000FF&text_color=FFFFFF&icon_color=00F2FE&border_color=0D0E15&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-shot&layout=compact&theme=radical&bg_color=0D0E15&title_color=7000FF&text_color=FFFFFF&icon_color=00F2FE&border_color=0D0E15&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alamin-shot&show_icons=true&count_private=true&hide_border=true&title_color=7000FF&icon_color=00F2FE&text_color=FFFFFF&bg_color=0D0E15" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alamin-shot&layout=compact&hide_border=true&title_color=7000FF&text_color=FFFFFF&bg_color=0D0E15" alt="Top Languages" />
 </div>
 
 <br>
@@ -86,13 +90,13 @@
 <h3 align="center">🤝 Let's Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/al-amin-600a15209/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D0E15?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D0E15?style=for-the-badge&logo=linkedin&logoColor=00F2FE&labelColor=0D0E15&color=7000FF" alt="LinkedIn"/>
   </a>
   <a href="mailto:rifat00175@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-0D0E15?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-0D0E15?style=for-the-badge&logo=gmail&logoColor=00F2FE&labelColor=0D0E15&color=7000FF" alt="Gmail"/>
   </a>
   <a href="https://www.facebook.com/rifat.rj">
-    <img src="https://img.shields.io/badge/-Facebook-0D0E15?style=for-the-badge&logo=facebook&logoColor=00F2FE" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-0D0E15?style=for-the-badge&logo=facebook&logoColor=00F2FE&labelColor=0D0E15&color=7000FF" alt="Facebook"/>
   </a>
 </p>
 
@@ -105,4 +109,4 @@
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="Footer"/>
-</p>57
+</p>
