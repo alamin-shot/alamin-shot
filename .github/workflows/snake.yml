@@ -16,6 +16,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
       
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -32,3 +39,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
+          enable_jekyll: false
