@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Building+the+future+of+the+decentralized+web;🚀+Architecting+clean+code+%26+scalable+systems;🔥+MERN+Stack+•+TypeScript+•+Next.js+•+Cloud+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=⚡+Building+the+future+of+the+decentralized+web;🚀+Architecting+clean+code+%26+scalable+systems;🔥+MERN+Stack+•+TypeScript+•+Next.js+•+Architect" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -36,48 +36,48 @@
 
 <h3 align="center">⚙️ Core Architecture & Engines</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,solidity,rust&theme=dark&perline=6" alt="Architecture Engines" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,&theme=dark&perline=6" alt="Architecture Engines" />
 </p>
 
 <h3 align="center">🎨 Client Experience Layers</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass,redux,graphql,gsap,threejs&theme=dark&perline=10" alt="Frontend UI" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux,threejs,&theme=dark&perline=10" alt="Frontend UI" />
 </p>
 
 <h3 align="center">🛠️ Infrastructure & Systems Engineering</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,kubernetes,git,github,vscode,figma,vercel,netlify&theme=dark&perline=5" alt="Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma,vercel,netlify&theme=dark&perline=5" alt="Infrastructure" />
 </p>
 
 <br>
 
 <div align="center">
   <!-- GitHub Stats & Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&bg_color=0D0E15&title_color=7000FF&text_color=FFFFFF&icon_color=00F2FE&border_color=0D0E15&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&bg_color=0D0E15&title_color=7000FF&text_color=FFFFFF&icon_color=00F2FE&border_color=0D0E15&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alamin-shot&show_icons=true&theme=radical&bg_color=0D0E15&title_color=7000FF&text_color=FFFFFF&icon_color=00F2FE&border_color=0D0E15&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-shot&layout=compact&theme=radical&bg_color=0D0E15&title_color=7000FF&text_color=FFFFFF&icon_color=00F2FE&border_color=0D0E15&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_USERNAME]&theme=transparent&bg_color=0D0E15&color=00F2FE&title_color=7000FF&text_color=FFFFFF&icon_color=7000FF" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamin-shot&theme=transparent&bg_color=0D0E15&color=00F2FE&title_color=7000FF&text_color=FFFFFF&icon_color=7000FF" alt="Profile Details" />
 </div>
 
 <br>
 
 <p align="center">
   <!-- Contribution Activity Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=0D0E15&color=00F2FE&line=7000FF&point=00F2FE&area=true&area_color=7000FF&hide_border=true&radius=16&custom_title=Contribution%20Timeline" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alamin-shot&bg_color=0D0E15&color=00F2FE&line=7000FF&point=00F2FE&area=true&area_color=7000FF&hide_border=true&radius=16&custom_title=Contribution%20Timeline" alt="Activity Graph" />
 </p>
 
 <br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alamin-shot/alamin-shot/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alamin-shot/alamin-shot/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alamin-shot/alamin-shot/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -85,24 +85,24 @@
 
 <h3 align="center">🤝 Let's Connect</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0E15?style=for-the-badge&logo=linkedin&logoColor=00F2FE&labelColor=0D0E15&color=7000FF" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/al-amin-600a15209/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D0E15?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Gmail-0D0E15?style=for-the-badge&logo=gmail&logoColor=00F2FE&labelColor=0D0E15&color=7000FF" alt="Gmail"/>
+  <a href="mailto:rifat00175@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-0D0E15?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/[YOUR_TWITTER]">
-    <img src="https://img.shields.io/badge/Twitter-0D0E15?style=for-the-badge&logo=x&logoColor=00F2FE&labelColor=0D0E15&color=7000FF" alt="Twitter"/>
+  <a href="https://www.facebook.com/rifat.rj">
+    <img src="https://img.shields.io/badge/-Facebook-0D0E15?style=for-the-badge&logo=facebook&logoColor=00F2FE" alt="Facebook"/>
   </a>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20[YOUR_NAME]-0D0E15?style=for-the-badge&labelColor=0D0E15&color=7000FF" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20alamin-shot-0D0E15?style=for-the-badge&labelColor=0D0E15&color=7000FF" alt="Made with love"/>
 </div>
 
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="Footer"/>
-</p>
+</p>57
